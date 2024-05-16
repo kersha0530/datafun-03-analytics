@@ -1,6 +1,64 @@
 # datafun-03-analytics
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/denisecase/datafun-03-spec.git
-git push -u origin main
+.\.venv\Scripts\activate
+.venv/ 
+# datafun-03-project
+
+## Create Project Virtual Environment
+
+py -m venv .venv; import venv
+
+.venv\Scripts\activate
+
+
+
+
+py -m venv .venv
+.venv\Scripts\Activate
+import subprocess
+
+subprocess.run(["pip", "install", "-r", "requirements.txt"])
+
+
+import subprocess
+
+subprocess.run(["pip", "install", "-r", "requirements.txt"])
+
+
+
+
+
+```
+
+## Git add and commit 
+
+print("git add .")
+subprocess.run(["git", "add", "."])
+
+print("git add .")
+subprocess.run(["git", "add", "."])
+
+
+
+print("git add .")
+
+
+subprocess.run(["git", "add", "."])
+
+subprocess.run(["git", "commit", "-m", "add .gitignore, cmds to readme"])
+
+
+
+import subprocess
+
+subprocess.run(["git", "push", "origin", "main"])
+
+
+print("git add .")
+
+print("git commit -m \"add .gitignore, cmds to readme\"")
+
+
+print("git push origin main")
+
+print("git push origin main")
+
