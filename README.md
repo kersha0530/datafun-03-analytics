@@ -1,6 +1,7 @@
 # datafun-03-analytics
 .\.venv\Scripts\activate
 .venv/ 
+cd path/to/datafun-03-analytics
 # datafun-03-project
 
 ## Create Project Virtual Environment
