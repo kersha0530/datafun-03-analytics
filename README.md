@@ -41,4 +41,5 @@ print("git push origin main")
 
 print("git push origin main")
 .gitignore
+git add .
 
