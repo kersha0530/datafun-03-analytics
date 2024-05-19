@@ -40,4 +40,5 @@ git push -u origin main
 print("git push origin main")
 
 print("git push origin main")
+.gitignore
 
