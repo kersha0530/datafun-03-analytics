@@ -30,33 +30,11 @@ subprocess.run(["pip", "install", "-r", "requirements.txt"])
 
 ```
 
-## Git add and commit 
-
-print("git add .")
-subprocess.run(["git", "add", "."])
-
-print("git add .")
-subprocess.run(["git", "add", "."])
-
-
-
-print("git add .")
-
-
-subprocess.run(["git", "add", "."])
-
-subprocess.run(["git", "commit", "-m", "add .gitignore, cmds to readme"])
-
-
-
-import subprocess
-
-subprocess.run(["git", "push", "origin", "main"])
-
-
-print("git add .")
-
-print("git commit -m \"add .gitignore, cmds to readme\"")
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/denisecase/datafun-03-spec.git
+git push -u origin main
 
 
 print("git push origin main")
