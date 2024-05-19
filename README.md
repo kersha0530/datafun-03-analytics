@@ -2,6 +2,8 @@
 .\.venv\Scripts\activate
 .venv/ 
 cd path/to/datafun-03-analytics
+.gitignore
+git add .
 # datafun-03-project
 
 ## Create Project Virtual Environment
@@ -40,6 +42,6 @@ git push -u origin main
 print("git push origin main")
 
 print("git push origin main")
-.gitignore
-git add .
+
+
 
