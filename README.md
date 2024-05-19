@@ -33,7 +33,7 @@ subprocess.run(["pip", "install", "-r", "requirements.txt"])
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/denisecase/datafun-03-spec.git
+git remote add origin (https://github.com/kersha0530/datafun-03-analytics)
 git push -u origin main
 
 
