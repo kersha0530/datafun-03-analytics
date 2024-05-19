@@ -1,4 +1,4 @@
-# datafun-03-analytics
+# datafun-03-kersha
 .\.venv\Scripts\activate
 .venv/ 
 cd path/to/datafun-03-analytics
